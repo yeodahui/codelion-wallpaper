@@ -12,7 +12,7 @@ body {
   font-family: "Bayon", sans-serif;
   font-size: large;
 
-  background-image: url(./img/homolions.png);
+  background-image: url("./img/homolions.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
